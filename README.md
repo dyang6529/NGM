@@ -1,0 +1,2 @@
+# NGM
+Simplest model
